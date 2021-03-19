@@ -16,8 +16,7 @@
     letter-spacing: 1px;
 }
 .title-games-home{
-    background-image: url(/dist/css/fondo.jpg);
-    background-size: cover;
+    background: rgb(14, 14, 14);
     font-weight: 700;
     text-align: center;
     color: rgb(236, 236, 236);
