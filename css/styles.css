@@ -1,0 +1,67 @@
+
+.block-carousel{
+    background: rgba(8, 8, 8, 0.76);
+    border-radius: 15px;
+}
+.navbar-home{
+    background: rgb(14, 14, 14);
+}
+.gallery-home{
+    width: auto;
+}
+.font-gallery{
+    color:rgb(236, 236, 236);
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.title-games-home{
+    background-image: url(../images/fondo.jpg);
+    background-size: cover;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(236, 236, 236);
+    padding: 60px 0px 60px 0px;
+}
+.row-home{
+    margin-bottom: 20px;
+}
+.column-home{
+    background: #ecf0f3;
+    padding: 30px 0px 30px 20px;
+    margin-left: 2px;
+    border-radius: 5px;
+    box-shadow: -5px 0px 10px 3px #fff,
+    5px 5px 5px #ccc;
+}
+.img-home-gallery{
+    background: #1d1d1d;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px black;
+    width:200px;
+}
+.button-game{
+    background: rgb(101, 138, 38);
+    color: rgb(236, 236, 236);
+    font-size: 1rem;
+    font-weight: 600;
+}
+.title-seccion-notice{
+    background-image: url(../images/fondo.jpg);
+    background-size: cover;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(236, 236, 236);
+    padding: 60px 0px 60px 0px;
+}
+.footer-home{
+    background: rgb(14, 14, 14);
+}
+.footer-content{
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.text-footer{
+    color: rgb(236, 236, 236);
+    font-weight: 600;
+}
