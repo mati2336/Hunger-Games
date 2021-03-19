@@ -16,7 +16,7 @@
     letter-spacing: 1px;
 }
 .title-games-home{
-    background-image: url(../images/fondo.jpg);
+    background-image: url(/images/fondo.jpg);
     background-size: cover;
     font-weight: 700;
     text-align: center;
@@ -46,14 +46,6 @@
     font-size: 1rem;
     font-weight: 600;
 }
-.title-seccion-notice{
-    background-image: url(../images/fondo.jpg);
-    background-size: cover;
-    font-weight: 700;
-    text-align: center;
-    color: rgb(236, 236, 236);
-    padding: 60px 0px 60px 0px;
-}
 .footer-home{
     background: rgb(14, 14, 14);
 }
@@ -64,4 +56,8 @@
 .text-footer{
     color: rgb(236, 236, 236);
     font-weight: 600;
+}
+.title-construccion{
+    text-align:center;
+    margin: 50% 20% 50% 20%;
 }
